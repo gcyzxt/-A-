@@ -1,0 +1,14 @@
+Do the machine learning models on a crowd sourced platform exhibit bias an empirical study on model fairness
+大众平台上的机器学习模型是否存在偏见？模型公平性的实证研究
+
+Authors: 
+Sumon Biswas, Hridesh Rajan
+
+
+Published:
+08 November 2020
+
+引用次数60
+
+ideal:
+在本文中，我们专注于对真实世界机器学习模型的公平性和缓解措施的实证评估。

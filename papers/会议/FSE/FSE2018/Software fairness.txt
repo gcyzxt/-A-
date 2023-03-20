@@ -1,0 +1,15 @@
+Software fairness
+软件公平性
+
+Authors: 
+Yuriy Brun, Alexandra Meliou
+
+
+Published:
+26 October 2018
+
+引用次数53
+
+ideal:
+本文概述了软件工程研究如何帮助减少公平性缺陷的愿景，并代表了软件工程
+研究社区采取行动以具体化该愿景的呼吁。

@@ -1,0 +1,19 @@
+FairNeuron: improving deep neural network fairness with adversary games on selective neurons
+FairNeuron：通过针对选择性神经元的对抗训练来提高深度神经网络的公平性
+
+Authors: 
+Xuanqi Gao, Juan Zhai, Shiqing Ma, Chao Shen, Yufei Chen, Qian Wang
+
+
+Published:
+05 July 2022
+
+引用次数6
+
+ideal:
+在许多情况下，模型的公平性和准确性是在模型训练期间进行优化的矛盾目标。
+我们注意到，在进行基于反向传播的训练时，这种矛盾现象也可以在单个神经元
+水平上观察到。基于这一观察，我们提出了一种 DNN 模型自动修复工具
+ FairNeuron，以减轻公平性问题并在不引入另一个模型的情况下平衡准确性与
+公平性。它致力于从准确性和公平性训练目标中检测具有矛盾优化方向的神经元，
+并通过选择性辍学实现权衡。

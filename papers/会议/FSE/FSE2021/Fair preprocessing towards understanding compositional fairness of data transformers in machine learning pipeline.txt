@@ -1,0 +1,17 @@
+Fair preprocessing: towards understanding compositional fairness of data transformers in machine learning pipeline
+公平预处理：了解机器学习管道中数据转换器的组成公平性
+
+Authors: 
+Sumon Biswas, Hridesh Rajan
+
+
+Published:
+18 August 2021
+
+引用次数35
+
+ideal:
+研究表明，不公平的根本原因往往根植于数据本身，而不是模型。但目前还没有
+研究衡量在数据预处理阶段进行的特定变换所造成的不公平性。在本文中，我们
+引入了公平因果方法来推理 ML 管道中数据预处理阶段的公平性影响。我们的
+结果表明，某些数据转换器导致模型表现出不公平。

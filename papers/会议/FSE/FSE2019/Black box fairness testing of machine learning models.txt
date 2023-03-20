@@ -1,0 +1,16 @@
+Black box fairness testing of machine learning models
+机器学习模型的黑盒公平性测试
+
+Authors: 
+Aniya Aggarwal, Pranay Lohia, Seema Nagar, Kuntal Dey, Diptikalyan Saha
+
+
+Published:
+12 August 2019
+
+引用次数108
+
+ideal:
+个人歧视的检测在黑盒设置中是测试密集型的，这对于非平凡的系统是不可行的。
+我们提出了一种自动生成测试输入的方法，用于检测个体歧视的任务。我们的方法
+结合了两种行之有效的技术——符号执行和本地可解释性，以生成有效的测试用例。

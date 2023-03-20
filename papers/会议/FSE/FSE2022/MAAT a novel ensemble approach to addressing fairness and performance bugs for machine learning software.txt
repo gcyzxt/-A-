@@ -1,0 +1,16 @@
+MAAT a novel ensemble approach to addressing fairness and performance bugs for machine learning software
+MAAT：一种解决机器学习软件的公平性和性能错误的新型集成方法
+
+Authors: 
+Zhenpeng Chen, Jie M. Zhang, Federica Sarro, Mark Harman
+
+
+Published:
+09 November 2022
+
+引用次数10
+
+ideal:
+我们提出了 MAAT，这是一种改进 ML 软件的公平性-性能权衡的新型集成方法。
+传统的集成方法将具有相同学习目标的不同模型结合起来。相反，MAAT 结合
+了针对不同目标优化的模型：公平性和 ML 性能。

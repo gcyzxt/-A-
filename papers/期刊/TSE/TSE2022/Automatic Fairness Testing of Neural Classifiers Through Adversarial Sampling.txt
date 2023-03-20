@@ -1,0 +1,17 @@
+Automatic Fairness Testing of Neural Classifiers Through Adversarial Sampling
+通过对抗性采样对神经分类器进行自动公平性测试
+
+Authors: 
+Peixin Zhang; Jingyi Wang; Jun Sun; Xinyu Wang; Guoliang Dong; Xingen Wang; Ting Dai; Jin Song Dong
+
+Published:
+04 August 2021
+
+引用次数7
+
+ideal:
+现有的公平性测试方法有两个主要限制。首先，它们仅在传统机器学习模型上
+表现良好，而在深度学习模型上表现不佳（例如，有效性和效率）。其次，它们
+只适用于简单的结构化（例如，表格）数据，不适用于文本等领域。在这项工作中
+，我们通过提出一种可扩展且有效的方法来系统地搜索歧视性样本，同时扩展现
+有的公平性测试方法以解决更具挑战性的领域，即文本分类，从而填补差距。

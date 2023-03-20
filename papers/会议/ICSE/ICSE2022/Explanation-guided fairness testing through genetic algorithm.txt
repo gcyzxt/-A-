@@ -1,0 +1,16 @@
+Explanation-guided fairness testing through genetic algorithm
+通过遗传算法进行解释引导的公平性测试
+
+Authors: 
+Ming Fan, Wenying Wei, Wuxia Jin, Zijiang Yang, Ting Liu
+
+Published:
+05 July 2022
+
+引用次数3
+
+ideal：
+公平性测试方法受到三大限制，即低效率、低有效性和模型特异性
+提出了 ExpGA，这是一种通过遗传算法 (GA) 进行解释引导的公平性测试方法。
+ExpGA 可以高效且有效地检测歧视性个体。而且，ExpGA 只需要测试模型的
+预测概率，从而对各种模型具有更好的泛化能力。

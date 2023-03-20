@@ -1,0 +1,18 @@
+Efficient white-box fairness testing through gradient search
+通过梯度搜索进行高效的白盒公平性测试
+
+Authors: 
+Lingfeng Zhang, Yueling Zhang, Min Zhang
+
+
+Published:
+11 July 2021
+
+引用次数11
+
+ideal:
+为了评估和改进模型的个体公平性，用于识别输入空间中个体歧视性实例的系统
+测试用例生成至关重要。在本文中，我们提出了一个框架 EIDIG，用于有效发现
+个人公平违规行为。我们的技术结合了用于快速生成一组不同的歧视性种子的
+全局生成阶段和用于在模型输出梯度的指导下围绕这些种子生成尽可能多的
+个体歧视性实例的局部生成阶段。

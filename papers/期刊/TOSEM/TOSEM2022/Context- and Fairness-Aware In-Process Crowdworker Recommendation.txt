@@ -1,0 +1,15 @@
+Context- and Fairness-Aware In-Process Crowdworker Recommendation
+上下文和公平感知的进程中众包推荐
+
+Authors: 
+Junjie Wang, Ye Yang, Song Wang, Jun Hu, Qing Wang
+
+Published:
+07 March 2022
+
+引用次数0
+
+ideal:
+推荐结果存在严重的流行偏见，即几乎所有任务都推荐经验丰富的工人，而经验
+较少的工人很少被推荐。本文认为需要上下文和公平感知的过程中众包推荐，以
+解决这些限制。

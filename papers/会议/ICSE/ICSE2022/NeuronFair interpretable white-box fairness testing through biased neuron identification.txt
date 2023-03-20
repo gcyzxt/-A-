@@ -1,0 +1,20 @@
+NeuronFair: interpretable white-box fairness testing through biased neuron identification
+NeuronFair：通过有偏见的神经元识别进行可解释性的白盒公平性测试
+
+Authors: 
+Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, Jinyin Chen
+
+
+Published:
+05 July 2022
+
+引用次数8
+
+ideal:
+在将深度神经网络 (DNN) 可靠地部署到此类敏感域之前进行公平性测试至关重要
+，即生成尽可能多的实例以发现违反公平性的行为。然而，现有的测试方法仍然存
+在三个方面的局限：可解释性、性能和通用性。为了克服这些挑战，我们提出了
+NeuronFair，这是一种新的 DNN 公平性测试框架，它在几个关键方面不同于
+以前的工作：(1)可解释 -它定量解释了 DNN 对有偏见的决策的公平性改进；
+(2)有效——它使用解释结果来指导在更短的时间内生成更多不同的实例；
+(3)通用——它可以处理结构化和非结构化数据。

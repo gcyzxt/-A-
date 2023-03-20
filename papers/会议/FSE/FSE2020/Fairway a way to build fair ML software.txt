@@ -1,0 +1,17 @@
+Fairway a way to build fair ML software
+Fairway：一种构建公平机器学习软件的方法
+
+Authors: 
+Joymallya Chakraborty, Suvodeep Majumder, Zhe Yu, Tim Menzies
+
+
+Published:
+08 November 2020
+
+引用次数61
+
+ideal:
+一旦在 AI 软件系统中检测到偏见，减轻偏见就非常重要。在这项工作中，我们 a)
+解释了训练数据中的真实偏见如何影响机器学习模型的公平性以及如何在 AI 软件
+中发现这种偏见，b) 提出一种结合预处理和处理中方法的 Fairway 方法，以消除
+训练数据和训练模型中的道德偏见。

@@ -1,0 +1,16 @@
+Astraea：Grammar-Based Fairness Testing
+Astraea : 基于语法的公平性测试
+
+Authors: 
+Ezekiel Soremekun; Sakshi Udeshi; Sudipta Chattopadhyay
+
+Published:
+11 January 2022 
+
+引用次数18
+
+ideal:
+开发人员的任务是生成可揭示和解释偏见的歧视性输入。我们提出了一种基于
+语法的公平性测试方法（称为 Astraea），它利用上下文无关语法来生成歧视性
+输入，以揭示软件系统中的公平性违规行为。使用概率语法，Astraea 还通过
+隔离观察到的软件偏差的原因来提供故障诊断。

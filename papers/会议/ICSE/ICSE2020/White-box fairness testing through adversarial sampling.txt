@@ -1,0 +1,16 @@
+White-box fairness testing through adversarial sampling
+通过对抗性抽样进行白盒公平性测试”
+
+Authors: 
+Peixin Zhang, Jingyi Wang, Jun Sun, Guoliang Dong, Xinyu Wang, Xingen Wang, Jin Song Dong, Ting Dai
+
+Published:
+01 October 2020
+
+引用次数64
+
+ideal:
+对于具有社会影响的应用程序，DNN 的一个理想属性是公平性（即非歧视），
+我们提出了一种可扩展的方法来搜索深度神经网络（DNN）的个体歧视实例。
+与最先进的方法相比，我们的方法仅采用梯度计算和聚类等轻量级程序，
+这使其比现有方法更具可扩展性。

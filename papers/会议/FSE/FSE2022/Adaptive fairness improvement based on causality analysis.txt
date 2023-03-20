@@ -1,0 +1,18 @@
+Adaptive fairness improvement based on causality analysis
+基于因果关系分析的自适应公平性改进
+
+Authors: 
+Mengdi Zhang, Jun Sun
+
+
+Published:
+09 November 2022
+
+引用次数3
+
+ideal:
+现有公平性改进方法并不总是有效（例如，它们可能会以准确性大幅下降为代价
+来提高公平性），甚至没有帮助（例如，它们甚至可能同时恶化公平性和准确性）
+在这项工作中，我们提出了一种基于因果关系分析自适应选择公平性改进方法的
+方法。也就是说，我们根据负责不公平的神经元和属性如何在输入属性和隐藏
+神经元之间分布来选择方法。

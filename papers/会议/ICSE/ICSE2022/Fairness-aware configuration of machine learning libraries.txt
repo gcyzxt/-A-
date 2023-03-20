@@ -1,0 +1,21 @@
+Fairness-aware configuration of machine learning libraries
+机器学习库的公平感知配置
+
+Authors: 
+Saeid Tizpaz-Niari, Ashish Kumar, Gang Tan, Ashutosh Trivedi
+
+Published:
+05 July 2022
+
+引用次数7
+
+ideal:
+现有方法侧重于通过修改输入数据集或修改ML算法来解决公平性错误。
+另一方面，对 ML 算法提供更精细控制的超参数的选择可能会启用一种
+侵入性intrusive较小的方法来影响公平性。
+
+超参数能否放大或抑制输入数据集中存在的歧视？
+我们如何帮助程序员检测、理解和利用超参数的作用来提高公平性？
+
+我们设计了三种基于搜索的软件测试算法来揭示超参数空间的精确公平边界。
+我们通过统计调试来补充这些算法，以解释这些参数在提高公平性方面的作用

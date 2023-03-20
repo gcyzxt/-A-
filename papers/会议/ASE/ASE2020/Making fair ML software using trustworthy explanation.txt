@@ -1,0 +1,16 @@
+Making fair ML software using trustworthy explanation
+使用可信赖的解释制作公平的 ML 软件
+
+Authors: 
+Joymallya Chakraborty, Kewen Peng, Tim Menzies
+
+Published:
+27 January 2021
+
+引用次数28
+
+ideal:
+之前的工作集中在发现和减轻 ML 模型中的偏见。最近的趋势是使用基于实例
+的模型不可知论解释方法，例如 LIME[36] 来找出模型预测中的偏见。我们的
+工作集中在寻找当前偏见测量和解释方法的缺点。我们展示了我们提出的基于
+ K 最近邻的方法如何克服这些缺点并找到黑盒模型的潜在偏差。

@@ -1,0 +1,15 @@
+Fairea： a model behaviour mutation approach to benchmarking bias mitigation methods
+Fairea：一种用于基准化偏见缓解方法的模型行为突变方法
+
+Authors: 
+Max Hort, Jie M. Zhang, Federica Sarro, Mark Harman
+
+
+Published:
+18 August 2021
+
+引用次数22
+
+ideal:
+本文介绍了 Fairea，一种用于对 ML 偏见缓解方法进行基准测试的模型行为突变方法。
+Fairea 已公开供软件工程师和研究人员评估他们的偏见缓解方法。

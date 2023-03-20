@@ -1,0 +1,18 @@
+Training data debugging for the fairness of machine learning software
+机器学习软件公平性的训练数据调试
+
+Authors: 
+Yanhui Li, Linghan Meng, Lin Chen, Li Yu, Di Wu, Yuming Zhou, Baowen Xu
+
+
+Published:
+05 July 2022
+
+引用次数3
+
+ideal:
+我们认为不公平的根本原因是训练数据中的偏差特征。受软件调试的启发，
+我们提出了一种新方法，即基于线性回归的训练数据调试( LTDD ) 来进行
+调试训练数据中的特征值，即（a）识别哪些特征和它们的哪些部分是有偏见的，
+以及（b）排除这些特征的有偏见的部分以恢复尽可能多的有价值和无偏见的
+信息以构建公平的 ML 软件。

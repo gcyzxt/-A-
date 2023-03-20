@@ -1,0 +1,20 @@
+RULER discriminative and iterative adversarial training for deep neural network fairness
+RULER：深度神经网络公平性的判别和迭代对抗训练
+
+Authors: 
+Guanhong Tao, Weisong Sun, Tingxu Han, Chunrong Fang, Xiangyu Zhang
+
+
+Published:
+09 November 2022
+
+引用次数3
+
+ideal:
+目前有方法通过生成称为个体歧视实例的测试用例来修复 DNN。尽管它们展示
+了巨大的潜力，但它们往往会生成许多测试用例，这些用例不能直接有效地提高
+公平性，并且会产生大量的计算开销。
+我们通过在模型修复的测试用例生成过程中区分敏感和非敏感属性，提出了一种
+新的模型修复技术 RULER。然后将生成的案例用于训练以提高 DNN 的公平性。
+RULER 通过将训练过程分解为两个阶段并引入一种新颖的公平性迭代对抗训练
+方法来平衡准确性和公平性之间的权衡。

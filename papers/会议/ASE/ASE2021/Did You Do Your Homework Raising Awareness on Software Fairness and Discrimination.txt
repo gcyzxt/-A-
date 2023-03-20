@@ -1,0 +1,20 @@
+Did You Do Your Homework Raising Awareness on Software Fairness and Discrimination
+你做作业了吗？提高对软件公平和歧视的认识
+
+Authors: 
+Max Hort; Federica Sarro
+
+
+Published:
+20 January 2022
+
+引用次数9
+
+ideal:
+除了受保护属性外，还有反保护属性。
+可能还有其他一些属性需要加以区别对待（例如，有家庭作业的学生应该获得
+更高的分数）。我们将此类属性称为反保护属性。
+
+在减少机器学习软件的偏差见时，存在失去对反保护属性的歧视行为的风险。
+为了解决这个问题，我们使用网格搜索来证明机器学习软件可以消除偏见（
+例如，减少性别偏见），同时还可以提高区分反保护属性的能力。

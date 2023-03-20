@@ -1,0 +1,17 @@
+Automated directed fairness testing
+自动定向公平性测试
+
+Authors: 
+Sakshi Udeshi, Pryanshu Arora, Sudipta Chattopadhyay
+
+
+Published: 
+03 September 2018
+
+引用次数114
+
+ideal:
+但是我们如何自动验证任意机器学习模型的公平性呢？对于给定的机器学习模型
+和一组敏感的输入参数，我们的 Aeqitas 方法会自动发现那些体现公平违规的
+歧视性输入。我们生成的测试输入的一个吸引人的特性是它们可以系统地添加到
+基础模型的训练集中并提高其公平性。

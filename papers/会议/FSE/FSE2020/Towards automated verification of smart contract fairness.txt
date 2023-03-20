@@ -1,0 +1,15 @@
+Towards automated verification of smart contract fairness
+实现智能合约公平性的自动验证
+
+Authors: 
+Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao
+
+
+Published:
+08 November 2020
+
+引用次数10
+
+ideal:
+智能合约是允许用户在区块链平台上自动定义和执行交易的计算机程序。我们实施
+FairCon，它能够检查公平属性，包括真实性、效率、以太坊智能合约的最优性和无共谋性。
